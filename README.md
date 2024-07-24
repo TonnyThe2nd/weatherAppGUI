@@ -1,0 +1,6 @@
+
+Desta vez, eu vim com algo que nunca tinha tentado, já iniciando com créditos ao youtuber do canal "TapTap", o qual fez o vídeo que acompanhei para chegar nos meus resultados. Hoje, eu fiz uma aplicação básica que mostra informações climáticas de locais que o usuário quiser. Confesso que foi desafiador, uma vez que eu nunca havia trabalhado com requisições de API, e sinceramente, essa foi bem difícil!! Graças ao tutorial, eu consegui entender tudo que estava fazendo e precisava fazer, agora acredito que conseguiria facilmente desenvolver essa mesma aplicação do 0 sem nenhuma ajuda.
+<br><br>
+Basicamente, a aplicação mostra a temperatura, a porcentagem de umidade e a velocidade do vento do local que foi digitado na barra de pesquisa (Confira nas fotos abaixo). A parte mais fácil foi criar o 'layout', uma vez que já havia usado a biblioteca "JFrame" inúmeras vezes, então apenas peguei as imagens disponíveis no vídeo e utilizei elas ao meu favor, já na parte de lógica, eu consegui desenvolver bastante coisa sozinho, porém, como disse, tive que seguir o passo a passo do vídeo em alguns momentos.
+<br><br>
+Espero que goste!! Continuarei estudando para conseguir utilizar outras API's e fazer uma aplicação ainda mais completa com informações de locais (estou pensando em um projeto que utilize o google maps)
